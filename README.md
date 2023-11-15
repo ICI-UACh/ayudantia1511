@@ -30,4 +30,11 @@ Programa en C++ que permite la conversión de temperaturas entre Celsius, Fahren
 - El programa valida que la opción seleccionada por el usuario sea válida.
 - En caso de una opción no válida, se notifica al usuario y se le solicita volver a elegir.
 
-  
+### Crea un programa en C++ que simule un cajero automático. El programa debe permitir al usuario realizar las siguientes operaciones:
+
+1. Consultar saldo disponible.
+2. Depositar dinero en la cuenta.
+3. Retirar dinero de la cuenta (asegurándose de que el saldo sea suficiente para cubrir el retiro).
+4. Salir del programa.
+   
+El programa debe mantener un registro del saldo actual y realizar las operaciones según la elección del usuario, mostrando mensajes correspondientes para cada operación realizada.
